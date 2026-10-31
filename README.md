@@ -15,7 +15,7 @@ C exercises for beginners. Each file is one exercise.
 | bai7.c | Multiplication table |
 | bai8.c | Sum from 1 to n |
 | bai9.c | Count digits of an integer |
-
+| bai10.c | Check prime number |
 ## How to build and run
 
 ```
