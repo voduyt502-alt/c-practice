@@ -16,6 +16,11 @@ C exercises for beginners. Each file is one exercise.
 | bai8.c | Sum from 1 to n |
 | bai9.c | Count digits of an integer |
 | bai10.c | Check prime number |
+| bai11.c | Prime check using a function |
+| bai12.c | Array sum and maximum |
+| bai13.c | Reverse an array |
+| bai14.c | Count even and odd numbers |
+
 ## How to build and run
 
 ```
